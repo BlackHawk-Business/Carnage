@@ -1,14 +1,1 @@
-Carnage Version 1.0.0.1
-gathers all data in memory
-No external libraries are used for Carnage
-Stub size is ~80 kB
-Works on both x32 and x64 systems
-All logs get sent to an HTTP Host
-Configurable Anti CIS, Anti VM, Anti Debbuger and Mutex
-Configurable File grabber file extensions and search depth
-Grabbing Cookies, Passwords, Autofills and Credit cards from Chromium-based browsers (using dynamic path searching)
-Grabbing Cookies, Passwords and Autofills from Gecko-based browsers (using dynamic path searching)
-Grabbing Telegram, Steam and Discord sessions using dynamically path searching
-Grabbing sensitive Extensions from Chromium-based browsers (includes crypto-extensions and authenticators)
-Grabbing most known Crypto wallets
-Detailed System information which includes hardware, geolocation and OS information with a Screenshot
+Carnage Version 1.0.0.1,  gathers all data in memory No external libraries are used for Carnage, Stub size is ~80 kB ,Works on both x32 and x64 systems,All logs get sent to an HTTP Host,Configurable Anti CIS, Anti VM, Anti Debbuger and Mutex ,Configurable File grabber file extensions and search depth,Grabbing Cookies, Passwords, Autofills and Credit cards from Chromium-based browsers (using dynamic path searching) Grabbing Cookies, Passwords and Autofills from Gecko-based browsers (using dynamic path searching),Grabbing Telegram, Steam and Discord sessions using dynamically path searching,Grabbing sensitive Extensions from Chromium based browsers (includes crypto-extensions and authenticators) Grabbing most known Crypto wallets ,Detailed System information which includes hardware, geolocation and OS information with a Screenshot
